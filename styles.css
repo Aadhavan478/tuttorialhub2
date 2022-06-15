@@ -16,7 +16,8 @@ body {
   /* add correct code to place the grid elements 
   one beside the other equally.   */
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-arround;
+  flex-direction: row;
 
   flex-wrap: wrap;
   font-family: sans-serif;
